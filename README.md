@@ -18,7 +18,7 @@ Manual UID/GID overrides for non-Polarix containers
 | ghcr.io/etkecc/synapse-admin:latest                     | 300010:300010    |                                               |
 | ghcr.io/element-hq/lk-jwt-service:latest                | 300011:300011    |                                               |
 | docker.io/livekit/livekit-server:latest                 | 300012:300012    |                                               |
-| docker.io/livekit/livekit-server:latest                 | 300013:300013    |                                               |
+| kweg/omnipoly:latest                                    | 300013:300013    |                                               |
 | docker.io/kweg/omnipoly:latest                          | 300014:300014    |                                               |
 | ghcr.io/stirling-tools/stirling-pdf:latest-ultra-lite   | 300015:300015    |                                               |
 | ghcr.io/goauthentik/ldap                                | 300016:300016    |                                               |
