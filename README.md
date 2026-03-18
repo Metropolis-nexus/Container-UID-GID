@@ -23,3 +23,5 @@ Manual UID/GID overrides for non-Polarix containers
 | ghcr.io/stirling-tools/stirling-pdf:latest-ultra-lite   | 300015:300015    |                                               |
 | ghcr.io/goauthentik/ldap                                | 300016:300016    |                                               |
 | ghcr.io/goauthentik/rac                                 | 300017:300017    |                                               |
+| ghcr.io/jitsi-contrib/hardened-images/jicofo            | 300018:300018    |                                               |
+| ghcr.io/jitsi-contrib/hardened-images/jvb               | 300019:300019    |                                               |
