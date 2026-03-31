@@ -25,3 +25,4 @@ Manual UID/GID overrides for non-Polarix containers
 | ghcr.io/goauthentik/rac                                 | 300017:300017    |                                               |
 | ghcr.io/jitsi-contrib/hardened-images/jicofo            | 300018:300018    |                                               |
 | ghcr.io/jitsi-contrib/hardened-images/jvb               | 300019:300019    |                                               |
+| codeberg.org/forgejo/forgejo:14-rootless                | 300020:300020    |                                               |
